@@ -2,6 +2,10 @@
 
 <main>
     <div class="container main-css estilo mt-5">
+        <h1>
+            CRUD Alunos
+        </h1>
+
         <button type="button" class="btn btn-success">
             <a href="view/insere-aluno.php">
                 Novo Aluno
